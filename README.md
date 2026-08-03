@@ -54,7 +54,7 @@ Load the library directly into your script environment using `loadstring`:
 
 ```lua
 local Library = loadstring(game:HttpGet(
-    "https://raw.githubusercontent.com/YourUsername/YourRepo/main/Library.lua"
+    "https://raw.githubusercontent.com/ranjrahim42-hue/Just-testing-/refs/heads/main/Library.luau"
 ))()
 ```
 
@@ -67,7 +67,7 @@ local Library = loadstring(game:HttpGet(
 ```lua
 -- 1. Load the library
 local Library = loadstring(game:HttpGet(
-    "https://raw.githubusercontent.com/YourUsername/YourRepo/main/Library.lua"
+    "https://raw.githubusercontent.com/ranjrahim42-hue/Just-testing-/refs/heads/main/Library.luau"
 ))()
 
 -- 2. Create the main window
