@@ -1,4 +1,4 @@
-print("[My_Script] v" .. tostring(os.date("%Y-%m-%d %H:%M:%S")) .. " executing...")
+print("[My_Script]  executing...")
 --=====================================================================
 -- My_Script — WindUI + Game Framework (consolidated)
 --=====================================================================
